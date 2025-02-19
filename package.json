@@ -1,0 +1,20 @@
+{
+  "name": "api-backend",
+  "version": "1.0.0",
+  "description": "projeto muito legal :)",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "raoni": "node --watch src/server.js"
+  },
+  "keywords": [
+    "api",
+    "hollowKnight",
+    "livraria"
+  ],
+  "author": "livraria",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
